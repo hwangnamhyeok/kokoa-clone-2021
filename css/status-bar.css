@@ -4,7 +4,8 @@
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 5px 3px;
+  align-items: center;
+  padding: 0px 3px;
   box-sizing: border-box;
 }
 .status-bar__column {

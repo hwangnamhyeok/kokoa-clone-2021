@@ -5,9 +5,22 @@
 @import "nav-bar.css";
 @import "screen-header.css";
 @import "friends.css";
+@import "user-component.css";
+@import "chats.css";
+@import "badge.css";
+@import "find.css";
+@import "icon-row.css";
+@import "more.css";
+@import "alt-screen-header.css";
+@import "settings.css";
+@import "chat.css";
+@import "no-mobile.css";
 body {
   padding-top: 30px;
   color: #2e363e;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
